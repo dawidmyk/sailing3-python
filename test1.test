@@ -1,0 +1,30 @@
+[
+{
+"header":"Jaka jest najmniejsza liczba pierwsza?",
+"category":"maths",
+"possibleAnswers":
+["1", "6", "7", "2"],
+"correctAnswer":1
+},
+{
+"header":"Ile wymiarów mają wektory zespolone?",
+"category":"maths",
+"possibleAnswers":
+["2", "1", "0", "1.5"],
+"correctAnswer":2
+},
+{
+"header":"Które liczby są doskonałe?",
+"category":"maths",
+"possibleAnswers":
+["28", "30", "40", "6"],
+"correctAnswers":[1, 4]
+},
+{
+"header":"Która liczba ma najwięcej podzielników?",
+"category":"maths",
+"possibleAnswers":
+["60", "20", "840"],
+"correctAnswer":3
+}
+]
